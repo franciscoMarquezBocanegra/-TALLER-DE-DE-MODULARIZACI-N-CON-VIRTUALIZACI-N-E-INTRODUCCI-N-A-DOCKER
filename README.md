@@ -105,5 +105,5 @@ Esta estructura de capas facilita la organización, mantenimiento y escalabilida
 
 
 ## Autor
-* **[Francisco Márquez]
+* [Francisco Márquez]
 
