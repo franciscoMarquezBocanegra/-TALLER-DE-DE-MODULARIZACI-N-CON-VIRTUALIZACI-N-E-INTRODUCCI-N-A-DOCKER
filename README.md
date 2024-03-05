@@ -27,12 +27,12 @@ Docker : automatiza el despliegue de aplicaciones dentro de contenedores de soft
 Clonamos el repositorio
 
 ```
-    git clone 
+    git clone https://github.com/franciscoMarquezBocanegra/-TALLER-DE-DE-MODULARIZACI-N-CON-VIRTUALIZACI-N-E-INTRODUCCI-N-A-DOCKER
 
 ```
 Se accede a la carpeta principal del repositorio repositorio que acabamos de clonar
 
-	 cd AREP05
+	 cd -TALLER-DE-DE-MODULARIZACI-N-CON-VIRTUALIZACI-N-E-INTRODUCCI-N-A-DOCKER
 
 Hacemos la construccion del proyecto
 
